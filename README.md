@@ -4,9 +4,7 @@
 <br>
 <div align="center">
 <h2 align="left">Stats</h2>
-
-<p><img  src="https://github-readme-stats.vercel.app/api/?username=RuralAnemone&theme=dracula&hide_border=true&hide_title=true&count_private=true" alt="RuralAnemone" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=RuralAnemone&theme=dracula&mode=weekly" alt="RuralAnemone" /></p><br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diskid204)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 
 ```text
